@@ -1,0 +1,6 @@
+ip a	Hiển thị IP
+ping google.com	Kiểm tra kết nối
+curl http://example.com	Gửi request HTTP
+wget URL	Tải file
+netstat -tuln	Kiểm tra port
+ss -tuln	Xem socket/port đang mở

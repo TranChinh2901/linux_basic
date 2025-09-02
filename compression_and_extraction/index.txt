@@ -1,0 +1,6 @@
+tar -cvf backup.tar folder	Nén folder thành .tar
+tar -xvf backup.tar	Giải nén tar
+gzip file.txt	Nén file thành .gz
+gunzip file.gz	Giải nén .gz
+zip -r backup.zip folder	Nén zip
+unzip backup.zip	Giải nén zip

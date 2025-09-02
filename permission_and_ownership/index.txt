@@ -1,0 +1,6 @@
+ls -l:	Xem quyền file
+chmod 755 file.sh :	Đổi quyền (rwxr-xr-x)
+chmod +x file.sh :	Thêm quyền chạy
+chown user:user file.txt :	Đổi chủ sở hữu file
+sudo command :	Chạy lệnh với quyền root
+su - : 	Chuyển sang user root

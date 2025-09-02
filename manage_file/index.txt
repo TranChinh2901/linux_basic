@@ -1,0 +1,6 @@
+touch file.php  : Tạo file rỗng
+cat file.txt    : Hiển thị nội dung file
+cp file1 file2  : Sao chép file 
+mv file1 file2  : Đổi tên/di chuyển file 
+rm file.php	: Xóa file
+nano file.php 	: Chỉnh sửa bằng nano editor 

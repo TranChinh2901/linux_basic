@@ -1,0 +1,5 @@
+df -h	Kiểm tra dung lượng ổ đĩa
+du -sh folder	Kiểm tra dung lượng thư mục
+uptime	Thời gian chạy hệ thống
+free -h	Kiểm tra RAM
+uname -a	Thông tin hệ điều hành

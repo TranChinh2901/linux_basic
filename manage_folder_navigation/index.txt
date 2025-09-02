@@ -1,0 +1,11 @@
+pwd: Hiển thị đường dẫn hiện tại 
+ls: Liệt kê file/folder
+ls -l: Liệt kê chi tiết
+ls -a: Liệt kê cả file ẩn
+cd: Chuyển thư mục
+cd ..: Lùi 1 cấp
+cd ~: Về home folder
+mkdir name_folder: Tạo thư mục
+mkdir -p parent/child: Tạo nhiều cấp thư mục
+rmdir name_folder: Xóa folder
+
