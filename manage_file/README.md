@@ -1,3 +1,8 @@
+---
+layout: default
+title: Quản lý File
+---
+
 # 📄 Quản lý File
 
 ## Tạo và xem file

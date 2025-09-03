@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mạng và Kết nối
+---
+
 # 🌐 Mạng và Kết nối
 
 ## Thông tin mạng

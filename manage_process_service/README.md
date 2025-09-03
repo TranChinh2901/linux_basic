@@ -1,3 +1,8 @@
+---
+layout: default
+title: Quản lý Tiến trình và Dịch vụ
+---
+
 # ⚙️ Quản lý Tiến trình và Dịch vụ
 
 ## Xem tiến trình

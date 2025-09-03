@@ -1,3 +1,8 @@
+---
+layout: default
+title: Giám sát Hệ thống
+---
+
 # 📊 Giám sát Hệ thống
 
 ## Kiểm tra dung lượng

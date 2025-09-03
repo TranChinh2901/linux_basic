@@ -1,3 +1,8 @@
+---
+layout: default
+title: Quản lý Thư mục và Điều hướng
+---
+
 # 📁 Quản lý Thư mục và Điều hướng
 
 ## Điều hướng cơ bản

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Quyền và Sở hữu
+---
+
 # 🔐 Quyền và Sở hữu
 
 ## Xem quyền file

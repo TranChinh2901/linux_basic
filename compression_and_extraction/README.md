@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nén và Giải nén
+---
+
 # 🗜️ Nén và Giải nén
 
 ## Lệnh Tar

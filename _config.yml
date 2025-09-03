@@ -1,0 +1,32 @@
+title: Linux Command Guide
+description: Hướng dẫn sử dụng các lệnh Linux cơ bản
+theme: minima
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Quản lý thư mục
+    url: /manage_folder_navigation/
+  - title: Quản lý file
+    url: /manage_file/
+  - title: Nén và giải nén
+    url: /compression_and_extraction/
+  - title: Tiến trình & dịch vụ
+    url: /manage_process_service/
+  - title: Mạng & kết nối
+    url: /network_and_connect/
+  - title: Quyền & sở hữu
+    url: /permission_and_ownership/
+  - title: Giám sát hệ thống
+    url: /system_monitor/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
