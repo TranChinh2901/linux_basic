@@ -1,8 +1,0 @@
-ps aux	Xem tất cả tiến trình
-top	Xem CPU/RAM real-time
-htop	(Đẹp hơn top, phải cài)
-kill PID	Dừng tiến trình theo PID
-kill -9 PID	Dừng mạnh
-systemctl start nginx	Bắt đầu dịch vụ nginx
-systemctl stop nginx	Dừng nginx
-systemctl status nginx	Kiểm tra trạng thái nginx
