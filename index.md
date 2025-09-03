@@ -7,7 +7,7 @@ title: Home
 
 Chào mừng bạn đến với hướng dẫn sử dụng các lệnh Linux cơ bản!
 
-## � Về project này
+## � Tổng quan
 
 Đây là tài liệu hướng dẫn các lệnh Linux cơ bản được tổ chức theo từng chủ đề khác nhau. Mỗi phần sẽ có các lệnh thông dụng kèm theo mô tả chi tiết để bạn có thể học và tra cứu dễ dàng.
 
