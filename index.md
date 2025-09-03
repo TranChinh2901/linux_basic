@@ -11,37 +11,37 @@ Chào mừng bạn đến với hướng dẫn sử dụng các lệnh Linux cơ
 
 <div class="command-grid">
   <div class="command-card">
-    <h3><a href="./manage_folder_navigation/">📁 Quản lý thư mục</a></h3>
+    <h3><a href="./manage_folder_navigation/README.md">📁 Quản lý thư mục</a></h3>
     <p>Điều hướng và quản lý thư mục</p>
   </div>
   
   <div class="command-card">
-    <h3><a href="./manage_file/">📄 Quản lý file</a></h3>
+    <h3><a href="./manage_file/README.md">📄 Quản lý file</a></h3>
     <p>Tạo, sửa, xóa file</p>
   </div>
   
   <div class="command-card">
-    <h3><a href="./compression_and_extraction/">🗜️ Nén và giải nén</a></h3>
+    <h3><a href="./compression_and_extraction/README.md">🗜️ Nén và giải nén</a></h3>
     <p>Tar, zip, gzip</p>
   </div>
   
   <div class="command-card">
-    <h3><a href="./manage_process_service/">⚙️ Tiến trình & dịch vụ</a></h3>
+    <h3><a href="./manage_process_service/README.md">⚙️ Tiến trình & dịch vụ</a></h3>
     <p>Process và service</p>
   </div>
   
   <div class="command-card">
-    <h3><a href="./network_and_connect/">🌐 Mạng & kết nối</a></h3>
+    <h3><a href="./network_and_connect/README.md">🌐 Mạng & kết nối</a></h3>
     <p>Network commands</p>
   </div>
   
   <div class="command-card">
-    <h3><a href="./permission_and_ownership/">🔐 Quyền & sở hữu</a></h3>
+    <h3><a href="./permission_and_ownership/README.md">🔐 Quyền & sở hữu</a></h3>
     <p>Chmod, chown</p>
   </div>
   
   <div class="command-card">
-    <h3><a href="./system_monitor/">📊 Giám sát hệ thống</a></h3>
+    <h3><a href="./system_monitor/README.md">📊 Giám sát hệ thống</a></h3>
     <p>Monitor system</p>
   </div>
 </div>
