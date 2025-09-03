@@ -7,26 +7,19 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Navigation
-navigation:
-  - title: Home
-    url: /
-  - title: Quản lý thư mục
-    url: /manage_folder_navigation/
-  - title: Quản lý file
-    url: /manage_file/
-  - title: Nén và giải nén
-    url: /compression_and_extraction/
-  - title: Tiến trình & dịch vụ
-    url: /manage_process_service/
-  - title: Mạng & kết nối
-    url: /network_and_connect/
-  - title: Quyền & sở hữu
-    url: /permission_and_ownership/
-  - title: Giám sát hệ thống
-    url: /system_monitor/
+# Header tabs
+header_pages:
+  - index.md
+  - manage_folder_navigation/README.md
+  - manage_file/README.md
+  - compression_and_extraction/README.md
+  - manage_process_service/README.md
+  - network_and_connect/README.md
+  - permission_and_ownership/README.md
+  - system_monitor/README.md
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - .gitignore
+  - DEPLOY_GUIDE.md

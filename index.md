@@ -7,90 +7,60 @@ title: Home
 
 Chào mừng bạn đến với hướng dẫn sử dụng các lệnh Linux cơ bản!
 
-## 📚 Mục lục
+## � Về project này
 
-<div class="command-grid">
-  <div class="command-card">
-    <h3><a href="./manage_folder_navigation/README.md">📁 Quản lý thư mục</a></h3>
-    <p>Điều hướng và quản lý thư mục</p>
-  </div>
-  
-  <div class="command-card">
-    <h3><a href="./manage_file/README.md">📄 Quản lý file</a></h3>
-    <p>Tạo, sửa, xóa file</p>
-  </div>
-  
-  <div class="command-card">
-    <h3><a href="./compression_and_extraction/README.md">🗜️ Nén và giải nén</a></h3>
-    <p>Tar, zip, gzip</p>
-  </div>
-  
-  <div class="command-card">
-    <h3><a href="./manage_process_service/README.md">⚙️ Tiến trình & dịch vụ</a></h3>
-    <p>Process và service</p>
-  </div>
-  
-  <div class="command-card">
-    <h3><a href="./network_and_connect/README.md">🌐 Mạng & kết nối</a></h3>
-    <p>Network commands</p>
-  </div>
-  
-  <div class="command-card">
-    <h3><a href="./permission_and_ownership/README.md">🔐 Quyền & sở hữu</a></h3>
-    <p>Chmod, chown</p>
-  </div>
-  
-  <div class="command-card">
-    <h3><a href="./system_monitor/README.md">📊 Giám sát hệ thống</a></h3>
-    <p>Monitor system</p>
-  </div>
-</div>
+Đây là tài liệu hướng dẫn các lệnh Linux cơ bản được tổ chức theo từng chủ đề khác nhau. Mỗi phần sẽ có các lệnh thông dụng kèm theo mô tả chi tiết để bạn có thể học và tra cứu dễ dàng.
 
----
+## 🎯 Mục tiêu
+
+- **Dễ hiểu**: Các lệnh được giải thích đơn giản, rõ ràng
+- **Thực tế**: Tập trung vào những lệnh hay dùng nhất
+- **Có tổ chức**: Phân chia theo chủ đề để dễ tìm kiếm
 
 ## 🚀 Cách sử dụng
 
-1. **Chọn chủ đề** bạn muốn học từ menu trên
-2. **Mở section** tương ứng
-3. **Đọc hướng dẫn** chi tiết với bảng lệnh và ví dụ
+1. **Chọn chủ đề** bạn muốn học từ navigation menu
+2. **Đọc và thực hành** theo hướng dẫn
+3. **Bookmark** để tra cứu khi cần
 
-> 💡 **Tip:** Mỗi section đều có bảng lệnh đầy đủ với mô tả chi tiết!
+---
+
+> 💡 **Tip:** Linux là công cụ mạnh mẽ, hãy thực hành thường xuyên để thành thạo!
 
 **Happy Learning!** ✨
 
 <style>
-.command-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 20px;
-  margin: 20px 0;
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 }
 
-.command-card {
-  border: 1px solid #ddd;
-  border-radius: 8px;
+.page-content {
+  max-width: 800px;
+  margin: 0 auto;
   padding: 20px;
-  background: #f9f9f9;
-  transition: transform 0.2s;
 }
 
-.command-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+h1 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
 }
 
-.command-card h3 {
-  margin-top: 0;
-  color: #333;
+h2 {
+  color: #34495e;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
 }
 
-.command-card a {
-  text-decoration: none;
-  color: inherit;
+blockquote {
+  background: #f8f9fa;
+  border-left: 4px solid #3498db;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 5px;
 }
 
-.command-card p {
-  color: #666;
-  margin-bottom: 0;
+blockquote p {
+  margin: 0;
 }
 </style>
